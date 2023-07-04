@@ -1,6 +1,3 @@
-# Edgeledger_Code_Along
-# Edgeledger_Code_Along
-# Edgeledger_Code_Along
-# Edgeledger_Code_Along
-# Edgeledger_Code_Along
+This is a sample website. 
+
 # Edgeledger_Code_Along
